@@ -39,6 +39,12 @@ body {
    
 }
 
+.cart-count {
+    font-size: 30px;
+    color: #000000;
+    margin-left: 8px;
+  }
+
 /* Product Grid */
 .product-grid {
     display:flex;
